@@ -2,7 +2,7 @@
 
 # ESPAsyncTCP 
 
-Project moved to [ESP32Async](https://github.com/organizations/ESP32Async) organization at [https://github.com/ESP32Async/ESPAsyncTCP](https://github.com/ESP32Async/ESPAsyncTCP)
+Project moved to [ESP32Async](https://github.com/ESP32Async) organization at [https://github.com/ESP32Async/ESPAsyncTCP](https://github.com/ESP32Async/ESPAsyncTCP)
 
 Discord Server: [https://discord.gg/X7zpGdyUcY](https://discord.gg/X7zpGdyUcY)
 
