@@ -1,18 +1,16 @@
 {
-  "name":"ESPAsyncTCP",
-  "description":"Asynchronous TCP Library for ESP8266",
-  "keywords":"async,tcp",
-  "authors":
-  {
+  "name": "uniot-esp8266-async-tcp",
+  "description": "Asynchronous TCP Library for ESP8266. Optimized for work in the Uniot environment.",
+  "keywords": "async,tcp",
+  "authors": {
     "name": "ESP32Async",
     "maintainer": true
   },
-  "repository":
-  {
+  "repository": {
     "type": "git",
-    "url": "https://github.com/ESP32Async/ESPAsyncTCP.git"
+    "url": "https://github.com/uniot-io/uniot-esp8266-async-tcp.git"
   },
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "LGPL-3.0",
   "frameworks": "arduino",
   "platforms": "espressif8266"
